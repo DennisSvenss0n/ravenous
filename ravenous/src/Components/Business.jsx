@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-
 function Business(prop) {
     return (
         <div className='restaurantCard'>
